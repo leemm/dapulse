@@ -1,7 +1,7 @@
 {
   "name": "dapulse",
-  "version": "0.1.0",
-  "description": "Dapulse API wrapper",
+  "version": "0.1.1",
+  "description": "Dapulse API wrapper with Promises and ES6 style classes",
   "main": "index.js",
   "directories": {
     "example": "examples"
