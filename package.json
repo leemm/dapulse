@@ -1,0 +1,22 @@
+{
+  "name": "dapulse",
+  "version": "0.1.0",
+  "description": "Dapulse API wrapper",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "keywords": [
+    "dapulse",
+    "api",
+    "request",
+    "http"
+  ],
+  "author": "Lee McCormick <leemmccormick@gmail.com> (https://github.com/leemm)",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.15.0",
+    "request": "^2.74.0"
+  }
+}
