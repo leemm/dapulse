@@ -43,7 +43,7 @@ new API(options);
 
 # Examples
 
-There are a lot of examples in the /examples folder which I've tried to comment thoroughly.
+There are a lot of examples in the /examples folder which I've tried to comment thoroughly.  But here's a few basic examples.
 
 ```javascript
 'use strict';
